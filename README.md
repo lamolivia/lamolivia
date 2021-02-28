@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 😛
 
 <!--
 **lamolivia/lamolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Olivia (she/her) and I am a 3rd year Cognitive Systems major. 
+I am currently working on honing my programming skills, and enjoy
+working on projects in different languages for fun and practice 🐒 💕
